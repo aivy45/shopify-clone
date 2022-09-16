@@ -6,6 +6,10 @@
 
 
 - Here is the link of the website
+- ![](images/s1.png)
+- ![](images/s2.png)
+- ![](images/s3.png)
+- ![](images/s4.png)
 - [Kindly click here](https://shopify-aivy-3945.netlify.app/#top)
 - ![](https://img.shields.io/badge/Html-Tailwind%20CSS-red)
 
